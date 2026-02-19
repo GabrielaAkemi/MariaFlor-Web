@@ -43,10 +43,6 @@ Abra o arquivo principal:
 Abra o index.html no navegador
 ou utilize uma extensão como Live Server.
 
-```bash
-git add README.md
-git commit -m "docs: adiciona README institucional web v1.0.0"
-git push
 📊 Status do Projeto
 🚧 Em desenvolvimento
 
@@ -87,9 +83,3 @@ Ano: 2025
 “Cuidar com conhecimento é florescer com saúde.” 🌸
 — Maria Flor Canábica
 
-
-
-```bash
-git add README.md
-git commit -m "docs: adiciona README institucional web v1.0.0"
-git push

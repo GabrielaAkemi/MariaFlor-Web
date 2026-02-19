@@ -29,19 +29,6 @@ A plataforma oferece:
 - ♿ Foco em acessibilidade e legibilidade
 
 ---
-
-## 🧩 Tecnologias Utilizadas
-
-| Categoria | Tecnologias |
-|------------|--------------|
-| **Estrutura** | HTML5 |
-| **Estilização** | CSS3 |
-| **Interatividade** | JavaScript |
-| **Versionamento** | Git & GitHub |
-| **Hospedagem (se aplicável)** | (Adicionar quando publicar) |
-
----
-
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório:**

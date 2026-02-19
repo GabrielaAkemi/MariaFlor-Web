@@ -59,26 +59,23 @@ O design do Maria Flor Web foi desenvolvido para transmitir:
 
 🌐 Modernidade digital
 
-⚖️ Licença
+## ⚖️ Licença
 Este projeto é de uso institucional exclusivo da Maria Flor Canábica.
-
 Não é permitida a reprodução, redistribuição ou utilização comercial do código ou da identidade visual sem autorização formal da instituição.
 
-📜 Política de Uso
+## 📜 Política de Uso
 O conteúdo disponibilizado no website possui caráter informativo e educacional, voltado à conscientização sobre o uso medicinal da cannabis.
-
 As informações apresentadas não substituem orientação médica profissional.
 
-O uso indevido da marca, identidade visual ou conteúdo institucional poderá resultar em responsabilização conforme a legislação vigente.
+## O uso indevido da marca, identidade visual ou conteúdo institucional poderá resultar em responsabilização conforme a legislação vigente.
 
-👩‍💻 Equipe
-Desenvolvido por: Gabriela Akemi
+## 👩‍💻 Equipe
+Desenvolvido por: Gabriela Akemi Rejane Hizukuri Santos
 
 Projeto Institucional: Maria Flor Canábica
 
 Categoria: Website Institucional Educacional
 
-Ano: 2025
 
 “Cuidar com conhecimento é florescer com saúde.” 🌸
 — Maria Flor Canábica
